@@ -7,11 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://twohourslate.com/categories/camels.xml</loc>
-  <lastmod>2017-01-12T17:38:00Z</lastmod>
+  <lastmod>2017-01-14T06:41:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_fodder.xml</loc>
-  <lastmod>2017-01-12T17:38:00Z</lastmod>
+  <lastmod>2017-01-14T06:41:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://twohourslate.com/categories/cat_thoughts.xml</loc>
+  <lastmod>2017-01-14T06:41:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_trials.xml</loc>
@@ -23,7 +27,11 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/thoughts.xml</loc>
-  <lastmod>2017-01-12T06:28:00Z</lastmod>
+  <lastmod>2017-01-14T06:41:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://twohourslate.com/categories/work.xml</loc>
+  <lastmod>2017-01-14T06:41:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/galleries/demo/rss.xml</loc>
@@ -35,10 +43,10 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/rss.xml</loc>
-  <lastmod>2017-01-13T08:49:00Z</lastmod>
+  <lastmod>2017-01-14T06:41:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/sitemap.xml</loc>
-  <lastmod>2017-01-13T08:49:00Z</lastmod>
+  <lastmod>2017-01-14T06:41:00Z</lastmod>
  </sitemap>
 </sitemapindex>

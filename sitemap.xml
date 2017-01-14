@@ -15,11 +15,11 @@
  </url>
  <url>
   <loc>http://twohourslate.com/archive.html</loc>
-  <lastmod>2017-01-13T08:49:00Z</lastmod>
+  <lastmod>2017-01-14T06:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/</loc>
-  <lastmod>2017-01-13T08:49:00Z</lastmod>
+  <lastmod>2017-01-14T06:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/camels/</loc>
@@ -28,6 +28,10 @@
  <url>
   <loc>http://twohourslate.com/categories/cat_fodder/</loc>
   <lastmod>2017-01-12T06:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/categories/cat_thoughts/</loc>
+  <lastmod>2017-01-14T06:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/cat_trials/</loc>
@@ -40,6 +44,10 @@
  <url>
   <loc>http://twohourslate.com/categories/thoughts/</loc>
   <lastmod>2017-01-12T06:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/categories/work/</loc>
+  <lastmod>2017-01-14T06:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/galleries/</loc>
@@ -132,5 +140,9 @@
  <url>
   <loc>http://twohourslate.com/posts/slan-go-foill/</loc>
   <lastmod>2017-01-12T06:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/posts/something-gives/</loc>
+  <lastmod>2017-01-14T06:41:00Z</lastmod>
  </url>
 </urlset>
