@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://twohourslate.com/authors/bimi.xml</loc>
-  <lastmod>2017-01-15T02:19:00Z</lastmod>
+  <lastmod>2017-01-15T17:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/authors/biminicrimp.xml</loc>
-  <lastmod>2017-01-15T05:01:00Z</lastmod>
+  <lastmod>2017-01-15T07:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/authors/revo.xml</loc>
@@ -34,8 +34,12 @@
   <lastmod>2017-01-14T06:41:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://twohourslate.com/categories/cat_philosophy.xml</loc>
+  <lastmod>2017-01-15T17:57:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://twohourslate.com/categories/cat_poetry.xml</loc>
-  <lastmod>2017-01-15T05:01:00Z</lastmod>
+  <lastmod>2017-01-15T07:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_rpi.xml</loc>
@@ -54,8 +58,16 @@
   <lastmod>2017-01-15T02:19:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://twohourslate.com/categories/comfort.xml</loc>
+  <lastmod>2017-01-15T17:57:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://twohourslate.com/categories/cosmos.xml</loc>
   <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://twohourslate.com/categories/desire.xml</loc>
+  <lastmod>2017-01-15T17:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/emacs.xml</loc>
@@ -67,7 +79,7 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/poem.xml</loc>
-  <lastmod>2017-01-15T05:01:00Z</lastmod>
+  <lastmod>2017-01-15T07:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/thoughts.xml</loc>
@@ -87,10 +99,10 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/rss.xml</loc>
-  <lastmod>2017-01-15T05:01:00Z</lastmod>
+  <lastmod>2017-01-15T17:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/sitemap.xml</loc>
-  <lastmod>2017-01-15T05:01:00Z</lastmod>
+  <lastmod>2017-01-15T17:57:00Z</lastmod>
  </sitemap>
 </sitemapindex>

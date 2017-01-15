@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>http://twohourslate.com/archive.html</loc>
-  <lastmod>2017-01-15T05:01:00Z</lastmod>
+  <lastmod>2017-01-15T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/authors/</loc>
@@ -39,7 +39,7 @@
  </url>
  <url>
   <loc>http://twohourslate.com/categories/</loc>
-  <lastmod>2017-01-15T05:01:00Z</lastmod>
+  <lastmod>2017-01-15T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/camels/</loc>
@@ -52,6 +52,10 @@
  <url>
   <loc>http://twohourslate.com/categories/cat_fodder/</loc>
   <lastmod>2017-01-12T06:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/categories/cat_philosophy/</loc>
+  <lastmod>2017-01-15T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/cat_poetry/</loc>
@@ -74,8 +78,16 @@
   <lastmod>2017-01-15T02:19:00Z</lastmod>
  </url>
  <url>
+  <loc>http://twohourslate.com/categories/comfort/</loc>
+  <lastmod>2017-01-15T17:57:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://twohourslate.com/categories/cosmos/</loc>
   <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/categories/desire/</loc>
+  <lastmod>2017-01-15T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/emacs/</loc>
@@ -184,6 +196,10 @@
  <url>
   <loc>http://twohourslate.com/posts/camel-fodder/</loc>
   <lastmod>2017-01-12T07:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/posts/creature-comforts/</loc>
+  <lastmod>2017-01-15T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/posts/emacs-trial/</loc>
