@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Two Hours Late</title><link>http://twohourslate.com/</link><description>The essence of time is experience.</description><atom:link href="http://twohourslate.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Sun, 15 Jan 2017 02:19:47 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Animals and Stars</title><link>http://twohourslate.com/posts/animals-and-stars/</link><dc:creator>bimi</dc:creator><description>&lt;div&gt;&lt;p&gt;Look up at night! If you live in the city you probably don't see much. We have polluted the night sky with our desire to be constantly in motion, to be constantly entertained and be constantly surrounded by light. I like the dark. I like it really dark and I like to be outside when it's really dark.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Two Hours Late</title><link>http://twohourslate.com/</link><description>The essence of time is experience.</description><atom:link href="http://twohourslate.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Sun, 15 Jan 2017 05:01:57 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Embers of Time</title><link>http://twohourslate.com/posts/embers-of-time/</link><dc:creator>biminicrimp</dc:creator><description>&lt;div&gt;&lt;p&gt;There is a chance that fire is aware!
+As it torches the matter of yesterday,
+It contemplates the mystery of growth,
+A purpose to be burned in the fire,
+To recover the pure things where nothing else is.&lt;/p&gt;
+&lt;p&gt;The flame sings a song that is heard only once,
+It dances to its own ashen song,
+In every place in every time,
+Light from a fire passes through.&lt;/p&gt;
+&lt;p&gt;It is only fire that consumes as it produces,
+Reaching lower for a more stable state.
+Give me some of that energy that you release!
+Please give me some of the heat that my body needs!
+I need a flame to prepare my meal.
+The burning embers sooth my eyes.
+My mind is calmed by the crackling of the flame.&lt;/p&gt;
+&lt;p&gt;I am no longer afraid of the fire,
+Having acquired a burning pain,
+No longer can I be concerned with consumption.
+Who are these people that I know.
+Are they aware of the fire?
+Do they have a fear of the consuming power of flame?
+Can they grasp that existance is from fire?&lt;/p&gt;
+&lt;p&gt;In the light of fire,
+From the ashen remains of something been made pure,
+Some material that was created in the inferno,
+A whole environment will rise from these ashes!
+The world itself was given life in a flame,
+Will there be any witness as this flame consumes it again?
+What a sight it will be!
+A story that can never be told,
+With words that can be uttered no more,
+Like the heat from the fire rises to escape,
+So will today;
+Rising up;
+Leaving;
+Burn-
+As I burn.
+There is no return.&lt;/p&gt;&lt;/div&gt;</description><category>poem</category><guid>http://twohourslate.com/posts/embers-of-time/</guid><pubDate>Sun, 15 Jan 2017 04:27:24 GMT</pubDate></item><item><title>Animals and Stars</title><link>http://twohourslate.com/posts/animals-and-stars/</link><dc:creator>bimi</dc:creator><description>&lt;div&gt;&lt;p&gt;Look up at night! If you live in the city you probably don't see much. We have polluted the night sky with our desire to be constantly in motion, to be constantly entertained and be constantly surrounded by light. I like the dark. I like it really dark and I like to be outside when it's really dark.&lt;/p&gt;
 &lt;p&gt;I really can't tell if other animals see the milky way and wonder. Isn't that what makes us human in a way? To look up and feel small and yet be so full of wonder and amazement. I say that the Milky Way is in some ways responsible for human progress. At some point our brains were able to appreciate the heavens. Today, we overlook it and many haven't even seen it. Isn't it silly that this opportunity is not valued? To see the stars - I propose that it is one of the important factors that set us apart from other animals.&lt;/p&gt;&lt;/div&gt;</description><category>cosmos</category><guid>http://twohourslate.com/posts/animals-and-stars/</guid><pubDate>Sun, 15 Jan 2017 01:35:53 GMT</pubDate></item><item><title>vagrant</title><link>http://twohourslate.com/posts/vagrant/</link><dc:creator>revo</dc:creator><description>&lt;p&gt;Need vagrant and virtualbox-qt. BIOS needs to allow virtualization. Then create folder and vagrant init with link to box file followed by a vagrant up and vagrant ssh. When done vagrant halt.&lt;/p&gt;</description><category>linux</category><guid>http://twohourslate.com/posts/vagrant/</guid><pubDate>Sat, 14 Jan 2017 23:55:21 GMT</pubDate></item><item><title>Installing Ubuntu Mate</title><link>http://twohourslate.com/posts/ubuntu-mate-install/</link><dc:creator>revo</dc:creator><description>&lt;p&gt;First to unxz things.
 Then dd the bs from if to of.
 Then resize2fs the dev part.
