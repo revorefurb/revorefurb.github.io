@@ -6,12 +6,32 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>http://twohourslate.com/authors/bimi.xml</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://twohourslate.com/authors/revo.xml</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://twohourslate.com/authors/revorefurb.xml</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://twohourslate.com/categories/camels.xml</loc>
   <lastmod>2017-01-14T06:41:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://twohourslate.com/categories/cat_deep-thoughts.xml</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://twohourslate.com/categories/cat_fodder.xml</loc>
   <lastmod>2017-01-14T06:41:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://twohourslate.com/categories/cat_rpi.xml</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_thoughts.xml</loc>
@@ -22,8 +42,20 @@
   <lastmod>2017-01-13T08:49:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://twohourslate.com/categories/cat_virtual.xml</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://twohourslate.com/categories/cosmos.xml</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://twohourslate.com/categories/emacs.xml</loc>
   <lastmod>2017-01-13T08:49:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://twohourslate.com/categories/linux.xml</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/thoughts.xml</loc>
@@ -35,18 +67,18 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/galleries/demo/rss.xml</loc>
-  <lastmod>2017-01-12T17:52:00Z</lastmod>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/galleries/rss.xml</loc>
-  <lastmod>2017-01-12T17:52:00Z</lastmod>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/rss.xml</loc>
-  <lastmod>2017-01-14T06:41:00Z</lastmod>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/sitemap.xml</loc>
-  <lastmod>2017-01-14T06:41:00Z</lastmod>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
  </sitemap>
 </sitemapindex>

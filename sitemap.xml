@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://twohourslate.com/</loc>
-  <lastmod>2017-01-12T18:00:00Z</lastmod>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/2017/</loc>
@@ -15,19 +15,43 @@
  </url>
  <url>
   <loc>http://twohourslate.com/archive.html</loc>
-  <lastmod>2017-01-14T06:41:00Z</lastmod>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/authors/</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/authors/bimi/</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/authors/revo/</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/authors/revorefurb/</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/</loc>
-  <lastmod>2017-01-14T06:41:00Z</lastmod>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/camels/</loc>
   <lastmod>2017-01-12T06:58:00Z</lastmod>
  </url>
  <url>
+  <loc>http://twohourslate.com/categories/cat_deep-thoughts/</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://twohourslate.com/categories/cat_fodder/</loc>
   <lastmod>2017-01-12T06:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/categories/cat_rpi/</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/cat_thoughts/</loc>
@@ -38,8 +62,20 @@
   <lastmod>2017-01-13T08:49:00Z</lastmod>
  </url>
  <url>
+  <loc>http://twohourslate.com/categories/cat_virtual/</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/categories/cosmos/</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://twohourslate.com/categories/emacs/</loc>
   <lastmod>2017-01-13T08:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/categories/linux/</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/thoughts/</loc>
@@ -67,7 +103,7 @@
  </url>
  <url>
   <loc>http://twohourslate.com/listings/hello.py.html</loc>
-  <lastmod>2017-01-12T17:52:00Z</lastmod>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/pages/about-nikola/</loc>
@@ -130,6 +166,10 @@
   <lastmod>2017-01-12T06:28:00Z</lastmod>
  </url>
  <url>
+  <loc>http://twohourslate.com/posts/animals-and-stars/</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://twohourslate.com/posts/camel-fodder/</loc>
   <lastmod>2017-01-12T07:51:00Z</lastmod>
  </url>
@@ -144,5 +184,13 @@
  <url>
   <loc>http://twohourslate.com/posts/something-gives/</loc>
   <lastmod>2017-01-14T06:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/posts/ubuntu-mate-install/</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/posts/vagrant/</loc>
+  <lastmod>2017-01-15T02:19:00Z</lastmod>
  </url>
 </urlset>
