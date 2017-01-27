@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>http://twohourslate.com/archive.html</loc>
-  <lastmod>2017-01-23T19:32:00Z</lastmod>
+  <lastmod>2017-01-27T03:05:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/authors/</loc>
@@ -39,7 +39,7 @@
  </url>
  <url>
   <loc>http://twohourslate.com/categories/</loc>
-  <lastmod>2017-01-15T17:57:00Z</lastmod>
+  <lastmod>2017-01-27T03:05:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/camels/</loc>
@@ -64,6 +64,10 @@
  <url>
   <loc>http://twohourslate.com/categories/cat_rpi/</loc>
   <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/categories/cat_social/</loc>
+  <lastmod>2017-01-27T03:05:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/cat_thoughts/</loc>
@@ -127,7 +131,7 @@
  </url>
  <url>
   <loc>http://twohourslate.com/listings/hello.py.html</loc>
-  <lastmod>2017-01-23T19:32:00Z</lastmod>
+  <lastmod>2017-01-27T03:05:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/pages/about-nikola/</loc>
@@ -224,5 +228,9 @@
  <url>
   <loc>http://twohourslate.com/posts/vagrant/</loc>
   <lastmod>2017-01-15T02:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/posts/whiskey-cavendesh/</loc>
+  <lastmod>2017-01-27T03:05:00Z</lastmod>
  </url>
 </urlset>
