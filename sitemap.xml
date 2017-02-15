@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>http://twohourslate.com/archive.html</loc>
-  <lastmod>2017-01-27T03:05:00Z</lastmod>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/authors/</loc>
@@ -39,7 +39,7 @@
  </url>
  <url>
   <loc>http://twohourslate.com/categories/</loc>
-  <lastmod>2017-01-27T03:05:00Z</lastmod>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/camels/</loc>
@@ -52,6 +52,10 @@
  <url>
   <loc>http://twohourslate.com/categories/cat_fodder/</loc>
   <lastmod>2017-01-12T06:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/categories/cat_just-write/</loc>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/cat_philosophy/</loc>
@@ -98,12 +102,28 @@
   <lastmod>2017-01-13T08:49:00Z</lastmod>
  </url>
  <url>
+  <loc>http://twohourslate.com/categories/existential-absurdity/</loc>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://twohourslate.com/categories/linux/</loc>
   <lastmod>2017-01-15T02:19:00Z</lastmod>
  </url>
  <url>
+  <loc>http://twohourslate.com/categories/nature/</loc>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://twohourslate.com/categories/poem/</loc>
   <lastmod>2017-01-15T05:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/categories/process/</loc>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/categories/purpose/</loc>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/thoughts/</loc>
@@ -220,6 +240,10 @@
  <url>
   <loc>http://twohourslate.com/posts/something-gives/</loc>
   <lastmod>2017-01-14T06:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/posts/turtle_turds/</loc>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/posts/ubuntu-mate-install/</loc>

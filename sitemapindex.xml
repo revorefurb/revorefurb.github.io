@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/authors/revo.xml</loc>
-  <lastmod>2017-01-27T03:05:00Z</lastmod>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/authors/revorefurb.xml</loc>
@@ -32,6 +32,10 @@
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_fodder.xml</loc>
   <lastmod>2017-01-23T02:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://twohourslate.com/categories/cat_just-write.xml</loc>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_philosophy.xml</loc>
@@ -78,12 +82,28 @@
   <lastmod>2017-01-23T19:33:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://twohourslate.com/categories/existential-absurdity.xml</loc>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://twohourslate.com/categories/linux.xml</loc>
   <lastmod>2017-01-16T18:02:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://twohourslate.com/categories/nature.xml</loc>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://twohourslate.com/categories/poem.xml</loc>
   <lastmod>2017-01-15T07:46:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://twohourslate.com/categories/process.xml</loc>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://twohourslate.com/categories/purpose.xml</loc>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/thoughts.xml</loc>
@@ -103,10 +123,10 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/rss.xml</loc>
-  <lastmod>2017-01-27T03:05:00Z</lastmod>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/sitemap.xml</loc>
-  <lastmod>2017-01-27T03:05:00Z</lastmod>
+  <lastmod>2017-02-15T06:39:00Z</lastmod>
  </sitemap>
 </sitemapindex>
