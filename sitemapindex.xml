@@ -15,11 +15,15 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/authors/revo.xml</loc>
-  <lastmod>2017-08-25T01:33:00Z</lastmod>
+  <lastmod>2017-08-28T04:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/authors/revorefurb.xml</loc>
   <lastmod>2017-08-25T01:32:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://twohourslate.com/categories/action.xml</loc>
+  <lastmod>2017-08-28T04:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/camels.xml</loc>
@@ -38,6 +42,10 @@
   <lastmod>2017-08-25T01:32:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://twohourslate.com/categories/cat_observations.xml</loc>
+  <lastmod>2017-08-28T04:35:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://twohourslate.com/categories/cat_philosophy.xml</loc>
   <lastmod>2017-08-25T01:32:00Z</lastmod>
  </sitemap>
@@ -47,7 +55,7 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_questions.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2017-08-25T01:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_rpi.xml</loc>
@@ -83,7 +91,7 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/destiny.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2017-08-25T01:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/emacs.xml</loc>
@@ -95,15 +103,19 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/fate.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2017-08-25T01:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/future.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2017-08-25T01:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/linux.xml</loc>
   <lastmod>2017-08-25T01:32:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://twohourslate.com/categories/move.xml</loc>
+  <lastmod>2017-08-28T04:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/nature.xml</loc>
@@ -122,16 +134,20 @@
   <lastmod>2017-08-25T01:32:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://twohourslate.com/categories/struggle.xml</loc>
+  <lastmod>2017-08-28T04:35:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://twohourslate.com/categories/thoughts.xml</loc>
   <lastmod>2017-08-25T01:32:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/time.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2017-08-25T01:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/work.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2017-08-28T04:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/galleries/demo/rss.xml</loc>
@@ -143,10 +159,10 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/rss.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2017-08-28T04:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/sitemap.xml</loc>
-  <lastmod>2017-08-25T01:33:00Z</lastmod>
+  <lastmod>2017-08-28T04:35:00Z</lastmod>
  </sitemap>
 </sitemapindex>
