@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/authors/revo.xml</loc>
-  <lastmod>2017-10-13T06:18:00Z</lastmod>
+  <lastmod>2018-01-15T18:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/authors/revorefurb.xml</loc>
@@ -31,7 +31,7 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_biographical.xml</loc>
-  <lastmod>2017-10-13T06:18:00Z</lastmod>
+  <lastmod>2018-01-15T18:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_deep-thoughts.xml</loc>
@@ -66,12 +66,20 @@
   <lastmod>2017-08-25T01:32:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://twohourslate.com/categories/cat_skills.xml</loc>
+  <lastmod>2018-01-15T18:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://twohourslate.com/categories/cat_social.xml</loc>
   <lastmod>2017-08-25T01:32:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_thoughts.xml</loc>
   <lastmod>2017-08-25T01:32:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://twohourslate.com/categories/cat_tools.xml</loc>
+  <lastmod>2018-01-15T18:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/cat_trials.xml</loc>
@@ -119,7 +127,7 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/living-2017.xml</loc>
-  <lastmod>2017-10-13T06:18:00Z</lastmod>
+  <lastmod>2018-01-15T18:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/move.xml</loc>
@@ -142,8 +150,16 @@
   <lastmod>2017-08-25T01:32:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://twohourslate.com/categories/speed.xml</loc>
+  <lastmod>2018-01-15T18:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://twohourslate.com/categories/struggle.xml</loc>
   <lastmod>2017-08-28T04:40:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://twohourslate.com/categories/template.xml</loc>
+  <lastmod>2018-01-15T18:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/categories/thoughts.xml</loc>
@@ -159,18 +175,18 @@
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/galleries/demo/rss.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2018-01-15T18:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/galleries/rss.xml</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2018-01-15T18:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/rss.xml</loc>
-  <lastmod>2017-10-13T06:18:00Z</lastmod>
+  <lastmod>2018-01-15T18:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://twohourslate.com/sitemap.xml</loc>
-  <lastmod>2017-10-13T06:18:00Z</lastmod>
+  <lastmod>2018-01-15T18:34:00Z</lastmod>
  </sitemap>
 </sitemapindex>

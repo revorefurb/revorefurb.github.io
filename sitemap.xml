@@ -7,15 +7,19 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://twohourslate.com/</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2018-01-15T18:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/2017/</loc>
   <lastmod>2017-01-12T06:28:00Z</lastmod>
  </url>
  <url>
+  <loc>http://twohourslate.com/2018/</loc>
+  <lastmod>2018-01-15T18:33:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://twohourslate.com/archive.html</loc>
-  <lastmod>2017-10-13T06:18:00Z</lastmod>
+  <lastmod>2018-01-15T18:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/authors/</loc>
@@ -39,7 +43,7 @@
  </url>
  <url>
   <loc>http://twohourslate.com/categories/</loc>
-  <lastmod>2017-10-13T06:18:00Z</lastmod>
+  <lastmod>2018-01-15T18:34:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/action/</loc>
@@ -86,12 +90,20 @@
   <lastmod>2017-01-15T02:19:00Z</lastmod>
  </url>
  <url>
+  <loc>http://twohourslate.com/categories/cat_skills/</loc>
+  <lastmod>2018-01-15T18:33:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://twohourslate.com/categories/cat_social/</loc>
   <lastmod>2017-01-27T03:05:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/cat_thoughts/</loc>
   <lastmod>2017-01-14T06:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/categories/cat_tools/</loc>
+  <lastmod>2018-01-15T18:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/cat_trials/</loc>
@@ -162,8 +174,16 @@
   <lastmod>2017-02-15T06:39:00Z</lastmod>
  </url>
  <url>
+  <loc>http://twohourslate.com/categories/speed/</loc>
+  <lastmod>2018-01-15T18:33:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://twohourslate.com/categories/struggle/</loc>
   <lastmod>2017-08-28T04:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/categories/template/</loc>
+  <lastmod>2018-01-15T18:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/categories/thoughts/</loc>
@@ -187,7 +207,7 @@
  </url>
  <url>
   <loc>http://twohourslate.com/index-1.html</loc>
-  <lastmod>2017-10-13T06:18:00Z</lastmod>
+  <lastmod>2018-01-15T18:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/listings/</loc>
@@ -199,7 +219,7 @@
  </url>
  <url>
   <loc>http://twohourslate.com/listings/hello.py.html</loc>
-  <lastmod>2017-08-25T01:32:00Z</lastmod>
+  <lastmod>2018-01-15T18:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/pages/about-nikola/</loc>
@@ -288,6 +308,14 @@
  <url>
   <loc>http://twohourslate.com/posts/embers-of-time/</loc>
   <lastmod>2017-01-15T05:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/posts/make%20life%20easier/</loc>
+  <lastmod>2018-01-15T18:34:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://twohourslate.com/posts/make%20life%20more%20competitive/</loc>
+  <lastmod>2018-01-15T18:34:00Z</lastmod>
  </url>
  <url>
   <loc>http://twohourslate.com/posts/slan-go-foill/</loc>
